@@ -1,1 +1,1 @@
-This folder contains the Spotify clone app
+This folder contains A modern fully fledged music app
